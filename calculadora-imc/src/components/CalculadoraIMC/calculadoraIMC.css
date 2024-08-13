@@ -1,0 +1,19 @@
+.container {
+    width: 840px;
+    max-width: 100%;
+    padding: 0;
+    margin: 0 auto;
+    background-color: #a4b0be;
+    text-align: center;
+    color: #ffffff;
+}
+
+.finput {
+    margin-right: 16px;
+}
+
+.fbutton {
+    background-color: #2f3542;
+    cursor: pointer;
+    color: #ffffff;
+}
